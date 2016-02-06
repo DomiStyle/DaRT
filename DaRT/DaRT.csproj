@@ -183,12 +183,6 @@
     <Compile Include="Windows\GUImessage.Designer.cs">
       <DependentUpon>GUImessage.cs</DependentUpon>
     </Compile>
-    <Compile Include="Windows\GUIreport.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Windows\GUIreport.Designer.cs">
-      <DependentUpon>GUIreport.cs</DependentUpon>
-    </Compile>
     <Compile Include="Windows\GUIsettings.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -230,9 +224,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Windows\GUImessage.resx">
       <DependentUpon>GUImessage.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Windows\GUIreport.resx">
-      <DependentUpon>GUIreport.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Windows\GUIsettings.resx">
       <DependentUpon>GUIsettings.cs</DependentUpon>

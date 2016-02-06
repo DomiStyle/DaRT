@@ -226,11 +226,6 @@ namespace DaRT
             Process.Start("https://github.com/marceldev89/BattleNET");
         }
 
-        private void dartbans_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            Process.Start("http://forums.dayzgame.com/index.php?/topic/144647-dartbans/?p=1429241");
-        }
-
         private void epm_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Process.Start("http://forums.dayzgame.com/index.php?/topic/170620-epm-rcon-tool-0996-changelog-and-information/?p=1736050");
